@@ -1,0 +1,6 @@
+C:\Code\Software-Deployment-and-Evolution\Calculator\WiXCalculator\bin\Debug\WiXCalculator.msi
+C:\Code\Software-Deployment-and-Evolution\Calculator\WiXCalculator\bin\Debug\WiXCalculator.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\WiXCalculator.wixproj.BindContentsFileListnull.txt
+obj\Debug\WiXCalculator.wixproj.BindOutputsFileListnull.txt
+obj\Debug\WiXCalculator.wixproj.BindBuiltOutputsFileListnull.txt

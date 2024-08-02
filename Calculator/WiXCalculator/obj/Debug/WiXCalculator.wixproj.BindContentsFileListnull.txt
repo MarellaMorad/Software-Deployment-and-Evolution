@@ -1,0 +1,2 @@
+C:\Code\Software-Deployment-and-Evolution\Calculator\Calculator\bin\Debug\net8.0\Calculator.dll
+C:\Code\Software-Deployment-and-Evolution\Calculator\Calculator\bin\Debug\net8.0\Calculator.exe

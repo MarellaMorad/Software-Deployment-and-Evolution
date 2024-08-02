@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\Software-Deployment-and-Evolution\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{459C94E5-16E0-4AE4-B760-FEAF536B9CF5}|WiXCalculator\\WiXCalculator.wixproj|C:\\Code\\Software-Deployment-and-Evolution\\Calculator\\WiXCalculator\\Product.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{459C94E5-16E0-4AE4-B760-FEAF536B9CF5}|WiXCalculator\\WiXCalculator.wixproj|solutionrelative:WiXCalculator\\Product.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3273B604-051F-4D23-85E3-01A82E4D4A97}|Calculator\\Calculator.csproj|c:\\code\\software-deployment-and-evolution\\calculator\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3273B604-051F-4D23-85E3-01A82E4D4A97}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3273B604-051F-4D23-85E3-01A82E4D4A97}|Calculator\\Calculator.csproj|c:\\code\\software-deployment-and-evolution\\calculator\\calculator\\calculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3273B604-051F-4D23-85E3-01A82E4D4A97}|Calculator\\Calculator.csproj|solutionrelative:calculator\\calculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941CF83D-0CE2-41F2-B6EC-E9E68757019B}|AdvancedCalc\\AdvancedCalc.csproj|c:\\code\\software-deployment-and-evolution\\calculator\\advancedcalc\\advancedcalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941CF83D-0CE2-41F2-B6EC-E9E68757019B}|AdvancedCalc\\AdvancedCalc.csproj|solutionrelative:advancedcalc\\advancedcalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator",
+              "DocumentMoniker": "C:\\Code\\Software-Deployment-and-Evolution\\Calculator\\Calculator\\Calculator.csproj",
+              "RelativeDocumentMoniker": "Calculator\\Calculator.csproj",
+              "ToolTip": "C:\\Code\\Software-Deployment-and-Evolution\\Calculator\\Calculator\\Calculator.csproj",
+              "RelativeToolTip": "Calculator\\Calculator.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-02T14:35:12.314Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdvancedCalc.cs",
+              "DocumentMoniker": "C:\\Code\\Software-Deployment-and-Evolution\\Calculator\\AdvancedCalc\\AdvancedCalc.cs",
+              "RelativeDocumentMoniker": "AdvancedCalc\\AdvancedCalc.cs",
+              "ToolTip": "C:\\Code\\Software-Deployment-and-Evolution\\Calculator\\AdvancedCalc\\AdvancedCalc.cs",
+              "RelativeToolTip": "AdvancedCalc\\AdvancedCalc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:33:46.782Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.wxs",
+              "DocumentMoniker": "C:\\Code\\Software-Deployment-and-Evolution\\Calculator\\WiXCalculator\\Product.wxs",
+              "RelativeDocumentMoniker": "WiXCalculator\\Product.wxs",
+              "ToolTip": "C:\\Code\\Software-Deployment-and-Evolution\\Calculator\\WiXCalculator\\Product.wxs",
+              "RelativeToolTip": "WiXCalculator\\Product.wxs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-02T14:42:42.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code\\Software-Deployment-and-Evolution\\Calculator\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator\\Program.cs",
+              "ToolTip": "C:\\Code\\Software-Deployment-and-Evolution\\Calculator\\Calculator\\Program.cs",
+              "RelativeToolTip": "Calculator\\Program.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:40:24.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

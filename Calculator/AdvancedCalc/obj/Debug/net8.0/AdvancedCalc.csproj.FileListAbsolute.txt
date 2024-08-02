@@ -1,0 +1,12 @@
+C:\Code\Software-Deployment-and-Evolution\Calculator\AdvancedCalc\bin\Debug\net8.0\AdvancedCalc.deps.json
+C:\Code\Software-Deployment-and-Evolution\Calculator\AdvancedCalc\bin\Debug\net8.0\AdvancedCalc.dll
+C:\Code\Software-Deployment-and-Evolution\Calculator\AdvancedCalc\bin\Debug\net8.0\AdvancedCalc.pdb
+C:\Code\Software-Deployment-and-Evolution\Calculator\AdvancedCalc\obj\Debug\net8.0\AdvancedCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Software-Deployment-and-Evolution\Calculator\AdvancedCalc\obj\Debug\net8.0\AdvancedCalc.AssemblyInfoInputs.cache
+C:\Code\Software-Deployment-and-Evolution\Calculator\AdvancedCalc\obj\Debug\net8.0\AdvancedCalc.AssemblyInfo.cs
+C:\Code\Software-Deployment-and-Evolution\Calculator\AdvancedCalc\obj\Debug\net8.0\AdvancedCalc.csproj.CoreCompileInputs.cache
+C:\Code\Software-Deployment-and-Evolution\Calculator\AdvancedCalc\obj\Debug\net8.0\AdvancedCalc.sourcelink.json
+C:\Code\Software-Deployment-and-Evolution\Calculator\AdvancedCalc\obj\Debug\net8.0\AdvancedCalc.dll
+C:\Code\Software-Deployment-and-Evolution\Calculator\AdvancedCalc\obj\Debug\net8.0\refint\AdvancedCalc.dll
+C:\Code\Software-Deployment-and-Evolution\Calculator\AdvancedCalc\obj\Debug\net8.0\AdvancedCalc.pdb
+C:\Code\Software-Deployment-and-Evolution\Calculator\AdvancedCalc\obj\Debug\net8.0\ref\AdvancedCalc.dll

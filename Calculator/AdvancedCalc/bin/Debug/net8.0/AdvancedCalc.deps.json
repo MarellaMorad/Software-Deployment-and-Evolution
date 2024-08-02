@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AdvancedCalc/1.0.0": {
+        "runtime": {
+          "AdvancedCalc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdvancedCalc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

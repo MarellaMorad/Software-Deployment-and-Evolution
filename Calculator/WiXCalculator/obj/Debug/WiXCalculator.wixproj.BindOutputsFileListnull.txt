@@ -1,0 +1,2 @@
+C:\Code\Software-Deployment-and-Evolution\Calculator\WiXCalculator\bin\Debug\WiXCalculator.msi
+C:\Code\Software-Deployment-and-Evolution\Calculator\WiXCalculator\bin\Debug\WiXCalculator.wixpdb

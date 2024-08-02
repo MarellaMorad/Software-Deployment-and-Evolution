@@ -1,0 +1,12 @@
+C:\Code\Software-Deployment-and-Evolution\Calculator\BasicCalc\bin\Debug\net8.0\BasicCalc.deps.json
+C:\Code\Software-Deployment-and-Evolution\Calculator\BasicCalc\bin\Debug\net8.0\BasicCalc.dll
+C:\Code\Software-Deployment-and-Evolution\Calculator\BasicCalc\bin\Debug\net8.0\BasicCalc.pdb
+C:\Code\Software-Deployment-and-Evolution\Calculator\BasicCalc\obj\Debug\net8.0\BasicCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Software-Deployment-and-Evolution\Calculator\BasicCalc\obj\Debug\net8.0\BasicCalc.AssemblyInfoInputs.cache
+C:\Code\Software-Deployment-and-Evolution\Calculator\BasicCalc\obj\Debug\net8.0\BasicCalc.AssemblyInfo.cs
+C:\Code\Software-Deployment-and-Evolution\Calculator\BasicCalc\obj\Debug\net8.0\BasicCalc.csproj.CoreCompileInputs.cache
+C:\Code\Software-Deployment-and-Evolution\Calculator\BasicCalc\obj\Debug\net8.0\BasicCalc.sourcelink.json
+C:\Code\Software-Deployment-and-Evolution\Calculator\BasicCalc\obj\Debug\net8.0\BasicCalc.dll
+C:\Code\Software-Deployment-and-Evolution\Calculator\BasicCalc\obj\Debug\net8.0\refint\BasicCalc.dll
+C:\Code\Software-Deployment-and-Evolution\Calculator\BasicCalc\obj\Debug\net8.0\BasicCalc.pdb
+C:\Code\Software-Deployment-and-Evolution\Calculator\BasicCalc\obj\Debug\net8.0\ref\BasicCalc.dll
