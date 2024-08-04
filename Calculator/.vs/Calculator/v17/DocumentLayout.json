@@ -31,7 +31,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Calculator",
+              "Title": "Calculator.csproj",
               "DocumentMoniker": "C:\\Code\\Software-Deployment-and-Evolution\\Calculator\\Calculator\\Calculator.csproj",
               "RelativeDocumentMoniker": "Calculator\\Calculator.csproj",
               "ToolTip": "C:\\Code\\Software-Deployment-and-Evolution\\Calculator\\Calculator\\Calculator.csproj",
@@ -53,8 +53,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T14:33:46.782Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -64,7 +63,7 @@
               "RelativeDocumentMoniker": "WiXCalculator\\Product.wxs",
               "ToolTip": "C:\\Code\\Software-Deployment-and-Evolution\\Calculator\\WiXCalculator\\Product.wxs",
               "RelativeToolTip": "WiXCalculator\\Product.wxs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAPAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-08-02T14:42:42.976Z",
               "EditorCaption": ""
@@ -79,8 +78,7 @@
               "RelativeToolTip": "Calculator\\Program.cs",
               "ViewState": "AQIAAEgAAAAAAAAAAAAAAA0AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T14:40:24.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T14:40:24.488Z"
             }
           ]
         }

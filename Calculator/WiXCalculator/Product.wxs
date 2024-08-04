@@ -27,6 +27,18 @@
 			<Component Id="CalculatorDLL" Guid="cb99f811-9a79-409b-bb14-2c872e00defe">
 				<File Id="CalculatorDLL" Source="$(var.Calculator.TargetDir)Calculator.dll"/>
 			</Component>
+			<Component Id="AdvancedCalcDLL" Guid="cdc7eca0-e0d4-4e24-a5be-ef27d09380c3">
+				<File Id="AdvancedCalcDLL" Source="$(var.Calculator.TargetDir)AdvancedCalc.dll"/>
+			</Component>
+			<Component Id="BasicCalcDLL" Guid="219b1905-ccb9-4e1b-abcf-f979e8b86bbc">
+				<File Id="BasicCalcDLL" Source="$(var.Calculator.TargetDir)BasicCalc.dll"/>
+			</Component>
+			<Component Id="CalculatorDepsJson" Guid="18e19cdd-106a-4b49-a288-e95304e189c2">
+				<File Id="CalculatorDepsJson" Source="$(var.Calculator.TargetDir)Calculator.deps.json"/>
+			</Component>
+			<Component Id="CalculatorRuntimeConfigJson" Guid="8a98469c-ba8c-4923-8b6f-1c974d02f19f">
+				<File Id="CalculatorRuntimeConfigJson" Source="$(var.Calculator.TargetDir)Calculator.runtimeconfig.json"/>
+			</Component>
 		</ComponentGroup>
 	</Fragment>
 </Wix>
